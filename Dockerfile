@@ -1,2 +1,2 @@
-FROM busy:latest
+FROM busybox:latest
 CMD echo HelloWorld
